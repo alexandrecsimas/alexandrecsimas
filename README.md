@@ -4,6 +4,9 @@ Sou um profissional de TI, trabalhando como funcionário público na área de in
 Neste perfil do GitHub, você encontrará uma seleção dos meus projetos e contribuições, refletindo minha experiência em TI e desenvolvimento. Acredito na importância de um ambiente de trabalho colaborativo e estou animado com as possibilidades de colaboração em projetos desafiadores. Vamos explorar novas oportunidades juntos!
 
 Obrigado por visitar meu perfil do GitHub! Se você está procurando colaboradores para um projeto ou deseja trocar ideias, sinta-se à vontade para entrar em contato. Estou pronto para aprender, crescer e contribuir para a comunidade de desenvolvedores.
+
+<img src="https://github.com/omololevy/omololevy/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 <!--
 **alexandrecsimas/alexandrecsimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
